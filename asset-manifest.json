@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kira-assesment/static/css/main.ae60013d.chunk.css",
+    "main.js": "/kira-assesment/static/js/main.8365de5a.chunk.js",
+    "main.js.map": "/kira-assesment/static/js/main.8365de5a.chunk.js.map",
+    "runtime-main.js": "/kira-assesment/static/js/runtime-main.8c919d94.js",
+    "runtime-main.js.map": "/kira-assesment/static/js/runtime-main.8c919d94.js.map",
+    "static/js/2.523e8f26.chunk.js": "/kira-assesment/static/js/2.523e8f26.chunk.js",
+    "static/js/2.523e8f26.chunk.js.map": "/kira-assesment/static/js/2.523e8f26.chunk.js.map",
+    "static/js/3.0a6c3b8f.chunk.js": "/kira-assesment/static/js/3.0a6c3b8f.chunk.js",
+    "static/js/3.0a6c3b8f.chunk.js.map": "/kira-assesment/static/js/3.0a6c3b8f.chunk.js.map",
+    "index.html": "/kira-assesment/index.html",
+    "static/css/main.ae60013d.chunk.css.map": "/kira-assesment/static/css/main.ae60013d.chunk.css.map",
+    "static/js/2.523e8f26.chunk.js.LICENSE.txt": "/kira-assesment/static/js/2.523e8f26.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c919d94.js",
+    "static/js/2.523e8f26.chunk.js",
+    "static/css/main.ae60013d.chunk.css",
+    "static/js/main.8365de5a.chunk.js"
+  ]
+}
